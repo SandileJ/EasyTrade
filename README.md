@@ -1,0 +1,2 @@
+# EasyTrade
+Risk Management System
